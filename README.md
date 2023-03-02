@@ -2,9 +2,9 @@
 
 プログラム参考：[デザインパターンの解説と実装例！](https://www.mum-meblog.com/entry/study/design-pattern)
 
-デザインパターンをPythonで実装してみる
+勉強としてデザインパターンをPythonで実装してみる
 
-## Strategyーパターン
+## Strategyパターン
 
 参考：[TECHSCORE](https://www.techscore.com/tech/DesignPattern/Strategy)
 
