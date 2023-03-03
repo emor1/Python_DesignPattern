@@ -39,7 +39,7 @@ class Beaker:
     def note(self):
         print(f"水：{self.water}g")
         print(f"食塩：{self.salt}g")
-        print(f"濃度：{self.salt/(self.water+self.salt)*100}g")
+        print(f"濃度：{self.salt/(self.water+self.salt)*100}%")
 
 class Command(metaclass=abc.ABCMeta):
     def setBeaker(self, beaker):
